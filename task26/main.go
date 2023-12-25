@@ -34,8 +34,8 @@ func UniqueChars(str string) bool {
 }
 
 func main() {
-	str1 := "Hello, world!"
-	str2 := "abcdefghijklmnopqrstuvwxyz"
+	str1 := "Hello, man!"
+	str2 := "fjjoifasdfaweor"
 	fmt.Println(UniqueChars(str1)) // false
 	fmt.Println(UniqueChars(str2)) // true
 }
